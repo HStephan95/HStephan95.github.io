@@ -12,3 +12,19 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.white-text img{
+  height: 5%;
+}
+
+#explanation{
+  border: 1px solid black;
+  border-radius: 5%;
+  color: black;
+}
+
+#aboutme{
+  float: left;
+  width: 85%;
+  overflow: auto;
+}
