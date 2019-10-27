@@ -7,24 +7,33 @@
  */
 
 .icon-block {
-  padding: 0 15px;
+    padding: 0 15px;
 }
+
 .icon-block .material-icons {
-	font-size: inherit;
+    font-size: inherit;
 }
 
-.white-text img{
-  height: 5%;
+.white-text img {
+    height: 5%;
 }
 
-#explanation{
-  border: 1px solid black;
-  border-radius: 5%;
-  color: black;
+#explanation {
+    border: 1px solid black;
+    border-radius: 5%;
+    color: black;
 }
 
-#aboutme{
-  float: left;
-  width: 85%;
-  overflow: auto;
+#aboutme {
+    float: left;
+    width: 85%;
+    overflow: auto;
+}
+
+#jobdescription {
+    padding-left: 10%;
+}
+
+#me {
+    border-radius: 10%;
 }
